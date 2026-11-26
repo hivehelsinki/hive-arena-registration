@@ -1,0 +1,1 @@
+# hive-arena-registration
